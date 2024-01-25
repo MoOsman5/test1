@@ -54,10 +54,10 @@ window.onload = function () {
   var css = document.createElement("style");
   css.type = "text/css";
   document.body.appendChild(css);
-};
+}; 
 var toggle = document.getElementById("switch");
 toggle.onclick = function () {
-  this.innerText = "By akhil";
+  this.innerText = "You are My Girl";
   this.style.cursor = "none";
   this.style.color = "#bef";
   document.getElementById("lights").className = "animate";
