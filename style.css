@@ -32,6 +32,7 @@ input[type="checkbox"] {
 }
 
 input[type="checkbox"] + label {
+  color:#b30059;
   width: 100px; height: 100px;
   line-height: 100px;
   display: inline-block;
