@@ -90,7 +90,7 @@ label {
 }
   #ck3:checked + label {
     width: 215px; height: 215px;
-    bottom:180px; left: 136px;
+    bottom:180px; left: 137.6px;
     transform: rotate(45deg);
     line-height: 27px;
   }
